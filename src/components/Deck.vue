@@ -26,7 +26,7 @@ export default {
         { value: 40 },
         { value: 100 },
         { value: '∞' },
-        { value: '?' },
+        { value: '⁇' },
         { value: '☕️' },
       ],
     };

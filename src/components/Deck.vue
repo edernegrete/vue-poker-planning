@@ -17,6 +17,7 @@ export default {
       cards: [
         { value: 0 },
         { value: 1 / 2 },
+        { value: 1 },
         { value: 2 },
         { value: 3 },
         { value: 5 },

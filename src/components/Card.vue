@@ -29,4 +29,10 @@ export default {
     margin: 1rem;
     width: 200px;
   }
+  @media only screen and (max-width: 479px) {
+    .card {
+      font-size: 5rem;
+      width: 39%
+    }
+  }
 </style>
